@@ -8,3 +8,4 @@ Scara robot arm project
 - Slider UI to control arm movements
 - Custom PCB design
 - Arduino Nano serial communication
+- TMC 2209 driver support
