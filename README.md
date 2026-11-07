@@ -1,11 +1,9 @@
 # Grid
 
-Scara robot arm project
+Selective compliance assembly robot arm project
 
 ## Features
 
-- Single motor controller
-- Slider UI to control arm movements
+- Arduino and TMC 2209 based
+- Custom UI to control and visualize movements
 - Custom PCB design
-- Arduino Nano serial communication
-- TMC 2209 driver support
